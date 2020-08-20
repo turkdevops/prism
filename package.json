@@ -44,10 +44,10 @@
     "gulp-uglify": "^3.0.1",
     "htmlparser2": "^4.0.0",
     "jsdom": "^13.0.0",
-    "mocha": "^6.2.0",
+    "mocha": "^6.2.3",
     "pump": "^3.0.0",
     "regexpp": "^2.0.1",
-    "simple-git": "^1.107.0",
+    "simple-git": "^1.132.0",
     "yargs": "^13.2.2"
   },
   "jspm": {
