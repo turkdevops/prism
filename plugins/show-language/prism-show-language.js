@@ -12,6 +12,7 @@
 
 	// The languages map is built automatically with gulp
 	var Languages = /*languages_placeholder[*/{
+		"none": "Plain text",
 		"html": "HTML",
 		"xml": "XML",
 		"svg": "SVG",
@@ -167,6 +168,10 @@
 		"sass": "Sass (Sass)",
 		"scss": "Sass (Scss)",
 		"shell-session": "Shell session",
+		"sh-session": "Shell session",
+		"shellsession": "Shell session",
+		"sml": "SML",
+		"smlnj": "SML/NJ",
 		"solidity": "Solidity (Ethereum)",
 		"sol": "Solidity (Ethereum)",
 		"solution-file": "Solution file",
