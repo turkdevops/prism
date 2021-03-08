@@ -47,7 +47,7 @@
     "mocha": "^8.2.1",
     "pump": "^3.0.0",
     "regexpp": "^3.1.0",
-    "simple-git": "^2.31.0",
+    "simple-git": "^2.34.2",
     "yargs": "^16.2.0"
   },
   "jspm": {
