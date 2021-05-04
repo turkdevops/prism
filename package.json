@@ -44,7 +44,7 @@
     "gulp-uglify": "^3.0.1",
     "htmlparser2": "^6.0.0",
     "jsdom": "^16.4.0",
-    "mocha": "^8.2.1",
+    "mocha": "^8.3.2",
     "pump": "^3.0.0",
     "regexpp": "^3.1.0",
     "simple-git": "^2.31.0",
